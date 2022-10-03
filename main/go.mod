@@ -1,3 +1,3 @@
-module Assignment1
+module biodata
 
 go 1.19
